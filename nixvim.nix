@@ -33,6 +33,12 @@ in
     #
     # NOTE: Configure your own plugins `see https://nix-community.github.io/nixvim/`
     # Add your plugins to ./config/plugins/custom and import them below
+
+    # Custom Plugins
+    ./config/plugins/custom/snacks.nix
+    ./config/plugins/custom/notify.nix
+    ./config/plugins/custom/toggleterm.nix
+    ./config/plugins/custom/smear-cursor.nix
   ];
 
   /*
