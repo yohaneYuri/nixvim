@@ -40,6 +40,7 @@ in
     ./config/plugins/custom/toggleterm.nix
     ./config/plugins/custom/smear-cursor.nix
     ./config/plugins/custom/noice.nix
+    ./config/plugins/custom/neoscroll.nix
   ];
 
   /*
