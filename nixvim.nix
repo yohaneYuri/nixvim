@@ -39,6 +39,7 @@ in
     ./config/plugins/custom/notify.nix
     ./config/plugins/custom/toggleterm.nix
     ./config/plugins/custom/smear-cursor.nix
+    ./config/plugins/custom/noice.nix
   ];
 
   /*

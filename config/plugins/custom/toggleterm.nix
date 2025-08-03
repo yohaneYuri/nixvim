@@ -10,6 +10,7 @@
       insert_mappings = true;
     };
   };
+
   keymaps = [
     {
       key = "<C-t>";
